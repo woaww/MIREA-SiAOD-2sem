@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\po pa\source\repos\SiAOD\Task3\main.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\po pa\source\repos\SiAOD\Task3\main.cpp(92,22): warning C4101: start: неиспользованная локальная переменная
+C:\Users\po pa\source\repos\SiAOD\Task3\main.cpp(92,35): warning C4101: res: неиспользованная локальная переменная
+C:\Users\po pa\source\repos\SiAOD\Task3\main.cpp(92,29): warning C4101: stop: неиспользованная локальная переменная
+  Task3.vcxproj -> C:\Users\po pa\source\repos\SiAOD\x64\Debug\Task3.exe
